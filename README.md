@@ -3,7 +3,7 @@
 ---
 
 <p align="center">
-  <img src="https://i.postimg.cc/JhnPv9f4/El-texto-del-p-rrafo.png" width="100%" title="Intro Card" alt="Intro Card">
+  <img src="https://i.postimg.cc/JhnPv9f4/El-texto-del-p-rrafo.png" width="80%" title="Intro Card" alt="Intro Card">
 </p>
 
 I am a Web and Desktop Application Developer who is exploring Web 💻 while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast about ML. 😜
