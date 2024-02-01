@@ -19,9 +19,6 @@ I am a Web Frontend Developer who is exploring Web 💻 while facilitating the w
  💬 Ask me about Web and Desktop Development, Apps, and any Tech-related stuff.
 
 
-![Profile views](https://github.com/MADDOG25)  <img src="https://img.shields.io/github/followers/MADDDOG25?label=Follow" style=" float:left, margin-right:10px" />
-
-
 ---
 
 
