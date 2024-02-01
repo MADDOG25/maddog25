@@ -39,7 +39,7 @@ I am a Web and Desktop Application Developer who is exploring Web 💻 while fac
 
  ---
 
-[![Dev Jeffrey GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Dev Jeffrey GitHub stats](https://github-readme-stats.vercel.app/api?username=MADDOG25)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
