@@ -2,13 +2,9 @@
 
 ---
 
-<p align="center">
-  <img src="https://i.postimg.cc/JhnPv9f4/El-texto-del-p-rrafo.png" width="70%" title="Intro Card" alt="Intro Card">
-</p>
-
 I am a Web Frontend Developer who is exploring Web 💻 while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast. 😜
  
- 🔭 I’m planning for a Project **Cutdate**.
+ 🔭 I’m planning for a Project **Mistery Movie**.
  
  🖱️ I’m currently learning <img src="http://img.shields.io/badge/-TypeScript-fff?style=flat&logo=typescript&logoColor=blue">
  
