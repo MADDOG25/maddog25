@@ -1,18 +1,18 @@
-### Hello Dev´s! Jeffrey Morgan. 👋
+### Hello Dev´s! I´m Jeffrey Morgan. 👋
 
 ---
 
-I am a Web Frontend Developer who is exploring Web 💻 while facilitating the world with User Experience with my Design Thinking Skills and Enthusiast. 😜
+I am a Frontend Developer💻who is  facilitating the world with User Experience with my unique Design and Personalized 😜
  
- 🔭 I’m planning for a Project **Mistery Movie**.
+ 🔭 I’m planning for a Project **Level Up**.
  
- 🖱️ I’m currently learning <img src="http://img.shields.io/badge/-TypeScript-fff?style=flat&logo=typescript&logoColor=blue">
+ 🖱️ I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
  
- 📚 I want to learn <img src="https://img.shields.io/badge/-Flutter-3a495d?style=flat&logo=flutter&logoColor=67b7f7">
+ 📚 I want to learn <img src="https://img.shields.io/badge/-ReactNative-3a495d?style=flat&logo=reactnative&logoColor=67b7f7">
  
  🧑‍🤝‍🧑 I’m looking to collaborate for a Web App project **ReactJS**.
  
- 💬 Ask me about Web and Desktop Development, Apps, and any Tech-related stuff.
+ 💬 Ask me about Web Development, Apps, and any Tech-related stuff.
 
 
 ---
@@ -20,9 +20,10 @@ I am a Web Frontend Developer who is exploring Web 💻 while facilitating the w
 
 ### Tech & Tools Preference
 
-<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white">
+<img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
-<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Tailwind-cc6699?style=flat&logo=tailwind&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
 <img src="https://img.shields.io/badge/-Node.js-3C873A?style=flat&logo=Node.js&logoColor=white">
 <img src="http://img.shields.io/badge/-Git-F1502F?style=flat&logo=git&logoColor=FFFFFF">
