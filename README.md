@@ -8,8 +8,6 @@ I am a Frontend Developer💻who is  facilitating the world with User Experience
  
  🖱️ I’m currently learning <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
  
- 📚 I want to learn <img src="https://img.shields.io/badge/-ReactNativejs-3a495d?style=flat&logo=reactnative&logoColor=67b7f7">
- 
  🧑‍🤝‍🧑 I’m looking to collaborate for a Web App project **ReactJS**.
  
  💬 Ask me about Web Development, Apps, and any Tech-related stuff.
